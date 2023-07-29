@@ -1,3 +1,3 @@
 # ESC-Website-Prep
 
-I test out my code here
+This is the better version of the website.
